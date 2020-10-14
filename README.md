@@ -17,7 +17,7 @@
 
 
 ## 使用说明
-1.使用前需要注册一个七牛云的账号并进行实名认证，实名认证需要一定的审核时间，注册地址为：[七牛云](]https://portal.qiniu.com/signup)   
+1.使用前需要注册一个七牛云的账号并进行实名认证，实名认证需要一定的审核时间，注册地址为：[七牛云](https://portal.qiniu.com/signup)   
 2.你需要创建一个 [空间（Bucket）](https://developer.qiniu.com/kodo/manual/3978/the-basic-concept#kodo-bucket) ,可以按照网站文档完成存储空间的搭建   
 3.将你自己的 AccessKey/SecretKey 填写进代码中  
 4.创建图片存放的本地路径和链接文件的存放路径  
